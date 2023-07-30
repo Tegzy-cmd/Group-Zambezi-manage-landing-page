@@ -267,7 +267,7 @@ a{
 }
 .subscribe{
     display: flex;
-    flex-direction: row;
+    flex-direction:row;
     column-gap: 10px;
     > input{
         padding: 10px 25px;
