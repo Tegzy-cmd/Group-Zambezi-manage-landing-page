@@ -9,7 +9,6 @@
 }
 
 body {
-<<<<<<< HEAD
     background-image: url('images/bg-tablet-pattern.svg'), url('images/bg-tablet-pattern.svg');
     background-repeat: no-repeat;
     background-position: 1000px -150px, -420px 1120px;
@@ -51,25 +50,6 @@ body {
 }
 
 .flex {
-=======
-    background-image: url('images/bg-tablet-pattern.svg'),url('images/bg-tablet-pattern.svg');
-    background-repeat:no-repeat;
-    background-position: 1000px -150px, -370px 1100px;
- 
-}
-
-/* Default designs start here */
-.rg{
-    row-gap: 50px !important;
-}
-.rgs{
-    row-gap: 22px !important;
-}
-.items-end{
-    align-items: end;
-}
-.flex{
->>>>>>> 160d667d4390458cd5950b4b987305006faba802
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -330,11 +310,6 @@ a {
     flex-direction: row;
     column-gap: 100px;
     padding: 25px 150px;
-<<<<<<< HEAD
-
-=======
-    
->>>>>>> 160d667d4390458cd5950b4b987305006faba802
     /* column-gap: 30px; */
 }
 
@@ -346,12 +321,8 @@ a {
     /* align-items: start;
     justify-items: center; */
 }
-<<<<<<< HEAD
 
 .subscribe {
-=======
-.subscribe{
->>>>>>> 160d667d4390458cd5950b4b987305006faba802
     display: flex;
     flex-direction: row;
     column-gap: 10px;
